@@ -15,6 +15,10 @@ Test Case 3:
 Input: This (is) an %Animal%
 OutPut: na sihT (is) %Animal%
 
+Test Case 4:
+Input: I am Goutamraj
+OutPut: jarmatuoG ma I
+
 */
 
 
